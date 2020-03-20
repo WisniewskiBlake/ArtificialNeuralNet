@@ -17,3 +17,13 @@ include parallel computations.
 Fourth, the ANN will be defined as a sequence of layer. To do this we create an object called classifier and initiliaze it using
 Sequential. Next, we add the input layer and the first hidden layer. Then we add more hidden layers and finally the output layer.
 
+
+
+
+![](images/ml6.png)
+
+![](images/ann1.png)
+
+![](images/ann2.png)
+
+![](images/ann3.png)
